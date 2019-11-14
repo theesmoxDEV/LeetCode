@@ -1,6 +1,6 @@
 if __name__=="__main__": # This make it possible to run "python RomanToInteger.py" directly in the terminal
 
-    while True: # A infinite loop, so you can repeat the program untill you press "ctrl + c"
+    while True: # An infinite loop, so you can repeat the program untill you press "ctrl + c"
 	
         x = str(input("Roman number to convert: ")) # The input is the roman number. The function suposses that te number is correct.
 
